@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
-	"godinnerbooking/internal/db"
-	"godinnerbooking/internal/models"
+	"github.com/KoutaHisano/GoDinnerBooking/internal/db"
+	"github.com/KoutaHisano/GoDinnerBooking/internal/models"
 )
 
 func main() {
